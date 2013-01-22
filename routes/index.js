@@ -1,3 +1,4 @@
+//TODO: Refactor this code. This should contain only route related info.
 /**
  * Socket communcation
  */ 
