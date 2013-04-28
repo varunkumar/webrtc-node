@@ -445,5 +445,5 @@
     return sdpLines;
   }
 
-  initialize();
+  $(initialize());
 })();
